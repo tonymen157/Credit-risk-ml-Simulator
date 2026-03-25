@@ -14,6 +14,10 @@
 
 **No solo predice el "No" — encuentra el "Sí" alternativo.**
 
+[![PROBAR APP EN VIVO](https://img.shields.io/badge/🔗_PROBAR_APP_EN_VIVO_AQUÍ-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://credit-risk-ml-simulator.streamlit.app)
+
+**🎉 ¡Esta aplicación está desplegada en Streamlit Cloud y es totalmente interactiva!** Puedes probarla ahora mismo haciendo clic en el botón de arriba. No necesitas instalar nada para ver el simulador en acción.
+
 </div>
 
 ---
@@ -46,23 +50,23 @@ Cuando el modelo de Machine Learning (LightGBM) detecta que una solicitud supera
 ## 🖥️ Capturas de Pantalla
 
 ### Dashboard de Salud Crediticia
-<!-- Placeholder para captura del dashboard de KPIs -->
+<!-- Captura del dashboard de KPIs -->
 <div align="center">
-<img src="docs/screenshots/01_dashboard_kpis.png" alt="Dashboard de Salud Crediticia" width="800"/>
+<img src="assets/01_dashboard_kpis.png" alt="Dashboard de Salud Crediticia" width="800"/>
 <p><em>Indicadores clave: Health Score, Nivel de Riesgo, Capacidad de Pago, Recomendación</em></p>
 </div>
 
 ### Análisis de Factores (SHAP) - Interpretación Humana
-<!-- Placeholder para captura del análisis SHAP -->
+<!-- Captura del análisis SHAP -->
 <div align="center">
-<img src="docs/screenshots/02_shap_analysis.png" alt="Análisis SHAP Interpretable" width="800"/>
+<img src="assets/02_shap_analysis.png" alt="Análisis SHAP Interpretable" width="800"/>
 <p><em>Factores consolidados con narrativa ejecutiva generada automáticamente</em></p>
 </div>
 
 ### Recomendación de Escenario Viable
-<!-- Placeholder para captura del veredicto -->
+<!-- Captura del veredicto -->
 <div align="center">
-<img src="docs/screenshots/03_veredicto_aprobado.png" alt="Veredicto de Crédito" width="800"/>
+<img src="assets/03_veredicto_aprobado.png" alt="Veredicto de Crédito" width="800"/>
 <p><em>Motor prescriptivo: Cuando la solicitud original es rechazada, el sistema propone alternativas</em></p>
 </div>
 
@@ -106,8 +110,8 @@ credit-risk-analytics/
 
 ### Paso 1: Clonar el repositorio
 ```bash
-git clone https://github.com/anthony/credit-risk-analytics.git
-cd credit-risk-analytics
+git clone https://github.com/tonymen157/Credit-risk-ml-Simulator.git
+cd Credit-risk-ml-Simulator
 ```
 
 ### Paso 2: Crear entorno virtual
@@ -194,8 +198,12 @@ Debido a las limitaciones de tamaño de GitHub (100MB por archivo), el dataset n
 **Desarrollado por Anthony**  
 *Data Analyst / Fintech Engineer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anthony)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonymen157)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony)
+
+---
+
+**🔗 [Ver repositorio completo en GitHub](https://github.com/tonymen157/Credit-risk-ml-Simulator)**
 
 </div>
 
