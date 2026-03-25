@@ -7,9 +7,9 @@ font = "sans serif"
 
 [ui]
 hideTopBar = true
-hideSidebarNav = true
 
 [server]
-headless = false
+headless = true
 enableCORS = false
 enableXsrfProtection = false
+port = 8501
